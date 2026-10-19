@@ -31,7 +31,7 @@
 
 ---
 
-## 📌 Executive Summary
+## 📌 Executive Summary :
 
 **DRISHTI** (ದೃಷ್ಟಿ — *"Divine Vision"* in Kannada) is an **Autonomous, Multilingual Agentic Intelligence & Tactical Command Platform** engineered specifically for the Karnataka State Police (KSP). 
 
